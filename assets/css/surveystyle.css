@@ -1,0 +1,15 @@
+
+#matchImg {
+  height: 400px;
+  width: 400px;
+}
+
+#logoImg {
+  height: 50px;
+  width: 60px;
+  margin-right: 50px;
+}
+
+#logoImg {
+  float: left;
+}
